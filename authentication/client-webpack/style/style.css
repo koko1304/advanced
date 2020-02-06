@@ -1,0 +1,17 @@
+.sign-form {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px; }
+
+.form-container {
+  display: inline-block;
+  background: #eee;
+  padding: 40px;
+  width: 400px; }
+  .form-container h1 {
+    font-size: 25px;
+    margin-bottom: 25px; }
+  .form-container label {
+    display: block; }
+
+/*# sourceMappingURL=style.css.map */
